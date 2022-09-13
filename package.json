@@ -1,0 +1,16 @@
+{
+  "name": "tasks",
+  "version": "1.0.0",
+  "description": "tasks repo",
+  "main": "index.js",
+  "scripts": {
+    "start:task1": "node exam-tasks/task1.js",
+    "start:task2": "node exam-tasks/task2.js",
+    "start:task5": "node exam-tasks/task5.js"
+  },
+  "author": "Alena Gerasimova",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^18.7.0"
+  }
+}
